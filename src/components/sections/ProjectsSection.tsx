@@ -66,6 +66,7 @@ const projects = [
     icon: Heart,
     color: "from-red-500 to-pink-600",
     github: "https://github.com/ArshanBhanage/Assignment-1",
+    live: "https://medium.com/@bhanagearshan/crisp-dm-report-heart-failure-mortality-prediction-bdb7fbb7702b",
   },
   {
     title: "LLM Fine-Tuning & RLHF",

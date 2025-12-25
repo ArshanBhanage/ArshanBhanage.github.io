@@ -13,29 +13,39 @@ const geistMono = Geist_Mono({
 });
 
 export const metadata: Metadata = {
-  title: "Arshan Bhanage | Software Engineer & AI Enthusiast",
+  title: "Arshan Bhanage | MSSE (Data Science) Portfolio",
   description:
-    "Portfolio of Arshan Bhanage - Software Engineer specializing in AI/ML, Full Stack Development, and Enterprise Systems. MS Computer Software Engineering at SJSU.",
+    "Portfolio of Arshan Bhanage - Software Engineer & ML Practitioner specializing in AI/ML, Data Science, RAG Systems, and Enterprise Backend. MS Software Engineering (Data Science) at San Jose State University.",
   keywords: [
     "Arshan Bhanage",
     "Software Engineer",
+    "Data Scientist",
+    "Machine Learning Engineer",
     "AI",
     "Machine Learning",
-    "Full Stack Developer",
+    "Data Mining",
+    "RAG Systems",
+    "LLM Fine-Tuning",
     "San Jose State University",
     "SJSU",
-    "Java",
     "Python",
-    "React",
-    "Next.js",
+    "Java",
+    "LangChain",
+    "PyTorch",
   ],
   authors: [{ name: "Arshan Bhanage" }],
   openGraph: {
-    title: "Arshan Bhanage | Software Engineer & AI Enthusiast",
+    title: "Arshan Bhanage | MSSE (Data Science) Portfolio",
     description:
-      "Software Engineer specializing in AI/ML, Full Stack Development, and Enterprise Systems.",
+      "Software Engineer & ML Practitioner specializing in AI/ML, Data Science, and Enterprise Systems.",
     type: "website",
     locale: "en_US",
+    url: "https://arshanbhanage.github.io",
+  },
+  twitter: {
+    card: "summary_large_image",
+    title: "Arshan Bhanage | MSSE (Data Science) Portfolio",
+    description: "Software Engineer & ML Practitioner at SJSU",
   },
 };
 
